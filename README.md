@@ -15,7 +15,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
+4. After that, everyone got lost (or maybe teleported?) and somehow there was a **superhero of friend**…  
    ![treasure chest](img2.png)
 
 5. Someone found a map, but it had no directions.  
