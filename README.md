@@ -25,12 +25,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
-8. Sonic dashed in at the speed of light, skidded to a halt, and shouted:
-   Too slow, guys! Green Hill is already overrun by robots! Forget the map—let’s just sprint straight to the ending! Gotta go fast! 
+8. Sonic ran to the group and said, "Hey, guys! There are robots in Green Hill! Let's find the treasure before they get it!"
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
    ![detective](img/detective.png)
 
-10. The ending… well, we don’t really have one. Please fix this.
-   (10. The detective found the cat sitting on the map, and on the back, in invisible ink, was the scientist's lost shout: *"Don't follow the map. Follow the cat!"* **THE END** 🐱)
+10. In the end, everyone followed the cat and found the treasure. The cat got all the food, and everyone else went home happy. THE END
