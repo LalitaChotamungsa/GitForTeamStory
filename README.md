@@ -33,3 +33,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![detective](img/detective.png)
 
 10. The ending… well, we don’t really have one. Please fix this.
+   (10. The detective found the cat sitting on the map, and on the back, in invisible ink, was the scientist's lost shout: *"Don't follow the map. Follow the cat!"* **THE END** 🐱)
