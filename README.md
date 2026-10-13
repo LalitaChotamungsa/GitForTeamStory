@@ -25,7 +25,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
-8. The Sonic was supposed to talk here, but the line is missing.  
+8. Sonic dashed in at the speed of light, skidded to a halt, and shouted:
+   Too slow, guys! Green Hill is already overrun by robots! Forget the map—let’s just sprint straight to the ending! Gotta go fast! 
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
